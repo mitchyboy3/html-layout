@@ -1,0 +1,24 @@
+body {
+    background: lightgray;
+}
+
+
+.top_section {
+    background: darkslategray;
+    height: 80px;
+    width: 100%;
+}
+
+.middle_section {
+    background: white;
+    height: 420px;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+
+.bottom_section {
+    background: black;
+    height: 40px;
+    margin-right: 80px;
+    margin-left: 80px;
+}
