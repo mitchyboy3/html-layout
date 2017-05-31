@@ -1,0 +1,36 @@
+.div { 
+    background-color: skyblue;
+    height: 11vh;
+    width: 11vh;
+    margin-left: 3vh;
+    position: relative;
+    top: 1vh;
+}
+
+.section1 {
+    background-color: grey;
+    height: 14vh;
+}
+.section2 {
+    background-color: white;
+    height: 30vh;
+    padding-top: 5vh;
+    padding-right: 5vh;
+    padding-left: 5vh;
+}
+.section3 {
+    background-color: skyblue;
+    height: 14vh;
+}
+.section4 {
+    background-color: turquoise;
+    height: 14vh;
+}
+.section5 {
+    background-color: aquamarine;
+    height: 14vh;
+}
+.section6 {
+    background-color: yellow;
+    height: 14vh;
+}
